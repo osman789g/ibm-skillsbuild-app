@@ -1,0 +1,7 @@
+robot.png icon created by Freepik - Flaticon: https://www.flaticon.com/free-icons/bot
+cloud.png icon created by RaftelDesign - Flaticon: https://www.flaticon.com/free-icons/server
+security.png icon created by Freekpik - Flaticon: https://www.flaticon.com/free-icons/padlock
+data.png icon created by Freepik - Flaticon: https://www.flaticon.com/free-icons/graph
+bronze-medal.png icon created by KSan Wapiti - Flaticon: https://www.flaticon.com/free-icons/bronze-medal
+silver-medal.png icon created by KSan Wapiti - Flaticon: https://www.flaticon.com/free-icons/silver-medal
+gold-medal.png icon created by KSan Wapiti - Flaticon: https://www.flaticon.com/free-icons/gold-medal
